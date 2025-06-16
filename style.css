@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 #hero {
-  background: url('/images/taman.jpg') center/cover no-repeat;
+  background: url('/taman.jpg') center/cover no-repeat;
   padding: 120px 20px;
   color: white;
   text-align: center;
